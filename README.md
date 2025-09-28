@@ -1,6 +1,5 @@
-
 <h1 align="center">Hi 👋, I'm John Dave Castillo</h1>
-<h3 align="center">🌐 A rontend developer & (Sana sumanib ako kay Garren)</h3>
+<h3 align="center">🌐 A Frontend developer & (Sana sumanib ako kay Garren)</h3>
 
 ###
 
