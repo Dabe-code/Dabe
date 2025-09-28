@@ -1,9 +1,9 @@
+
 <h1 align="center">Hi 👋, I'm John Dave Castillo</h1>
-<h3 align="center">🌐 A passionate frontend developer & coding enthusiast from PH</h3>
+<h3 align="center">🌐 A rontend developer & (Sana sumanib ako kay Garren)</h3>
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/dAqbN5UG2M0AAAAC/gon-anime.gif" alt="Gon Freecss" />
 
 ###
 
@@ -73,6 +73,3 @@
   </a>
 </div>
 
----
-
-⭐ *This profile is the beginning of my journey as a developer and creator.*
